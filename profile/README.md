@@ -14,7 +14,7 @@ Welcome to "Bungaku," a project driven by our team's passion for fostering envir
 - [Machine Learning Repository](https://github.com/CH2-PR618/Bungaku-FlowerModel)
 
 #### Mobile Development
-- [Mobile Development Branch](https://github.com/CH2-PR618/Bungaku-Android)
+- [Mobile Development Repository](https://github.com/CH2-PR618/Bungaku-Android)
 
 <br>
 
