@@ -1,5 +1,8 @@
 # Bungaku By Capstone CH2-PR618
-<br>
+
+<div align="center">
+  <img height="" src="https://github.com/CH2-PR618/.github/blob/main/banner.png?raw=true"  />
+</div>
 
 ## Project Overview
 
