@@ -8,13 +8,13 @@ Welcome to "Bungaku," a project driven by our team's passion for fostering envir
 ## Explore Project Code
 
 #### Cloud Computing
-- [Cloud Computing Branch](https://github.com/Fauzanmhr/Bungaku/tree/cloud-computing)
+- [Cloud Computing Repository](https://github.com/CH2-PR618/Bungaku-API)
 
 #### Machine Learning
-- [Machine Learning Branch](https://github.com/Fauzanmhr/Bungaku/tree/machine-learning)
+- [Machine Learning Repository](https://github.com/CH2-PR618/Bungaku-FlowerModel)
 
 #### Mobile Development
-- [Mobile Development Branch](https://github.com/Fauzanmhr/Bungaku/tree/mobile-development)
+- [Mobile Development Branch](https://github.com/CH2-PR618/Bungaku-Android)
 
 <br>
 
