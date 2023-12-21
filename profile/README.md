@@ -69,7 +69,7 @@ Welcome to "Bungaku," a project driven by our team's passion for fostering envir
       <td>Cloud Computing</td>
       <td>
         <a href="https://www.linkedin.com/in/galihnirsetiawan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-        <a href="https://github.com/your_github_profile"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://github.com/Galihnir"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
       </td>
       <td>Institut Teknologi Indonesia</td>
     </tr>
